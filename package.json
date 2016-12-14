@@ -1,0 +1,15 @@
+{
+  "name": "todobot",
+  "version": "1.0.0",
+  "description": "Bot for regular interval todo list management built using Microsoft Bot Framework and React for website front end",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ming Luo",
+  "license": "MIT",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "restify": "^4.3.0"
+  }
+}
