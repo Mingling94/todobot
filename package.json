@@ -4,6 +4,7 @@
   "description": "Bot for regular interval todo list management built using Microsoft Bot Framework and React for website front end",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Ming Luo",
